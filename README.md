@@ -73,6 +73,3 @@ The core of the project is contained within the `ABC_TECH_ITSM_Project.ipynb` no
     *   **Goal 3:** Department Auto-Tagging.
     *   **Goal 4:** RFC Failure Prediction.
 
----
-    ├── goal3_department_model_safe.pkl # Pipeline for Goal 3.2 (CI_Cat)
-    └── ...                      # Other saved model artifacts
