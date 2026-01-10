@@ -74,15 +74,5 @@ The core of the project is contained within the `ABC_TECH_ITSM_Project.ipynb` no
     *   **Goal 4:** RFC Failure Prediction.
 
 ---
-
-## 📂 Repository Structure
-
-## 📂 Repository Structure
-
-```text
-├── ABC_TECH_ITSM_Project.ipynb  # Main Project Notebook
-├── README.md                    # This file
-└── Saved_Models/
-    ├── priority_binary_rf.pkl   # Model for Goal 3.1 (Priority)
     ├── goal3_department_model_safe.pkl # Pipeline for Goal 3.2 (CI_Cat)
     └── ...                      # Other saved model artifacts
